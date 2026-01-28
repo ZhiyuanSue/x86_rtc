@@ -1,0 +1,1 @@
+rd_("CkThe System Real Time Clock structure for x86 based on CMOS.BcConstruct a new CMOS RTC structure.AoReturns the argument unchanged.BaCalls <code>U::from(self)</code>.ClSystem Real Time Clock (RTC) Drivers for x86_64 based on \xe2\x80\xa6CeReturns the current time in seconds since UNIX epoch.CbSets the current time in seconds since UNIX epoch.")
